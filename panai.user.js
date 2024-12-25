@@ -177,7 +177,7 @@
         },
         '123pan2': {
             reg: /((?:https?:\/\/)?www\.123684\.com\/s\/[\w-]{6,})/,
-            host: /www\.123pan\.com/,
+            host: /www\.123684\.com/,
             input: ['.ca-fot input', ".appinput .appinput"],
             button: ['.ca-fot button', ".appinput button"],
             name: '123云盘',
